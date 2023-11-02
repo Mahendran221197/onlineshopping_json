@@ -1,0 +1,164 @@
+{
+  "Registration": [
+    {
+      "id": 1,
+      "name": "Mahendran R",
+      "email": "mahendran@gmail.com",
+      "mobile": "9500471965",
+      "password": "mahi123",
+      "conformpassword": "mahi123"
+    },
+    {
+      "id": 2,
+      "name": "Nibin",
+      "email": "nibin@gmail.com",
+      "mobile": "8889657430",
+      "password": "nibin123",
+      "conformpassword": "nibin123"
+    },
+    {
+      "id": 3,
+      "name": "surya",
+      "email": "surya@gmail.com",
+      "mobile": "9563147023",
+      "password": "surya123",
+      "conformpassword": "surya123"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "400"
+    },
+    {
+      "id": 2,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "550"
+    },
+    {
+      "id": 3,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "500"
+    },
+    {
+      "id": 4,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "899"
+    },
+    {
+      "id": 5,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "410"
+    },
+    {
+      "id": 6,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "111"
+    },
+    {
+      "id": 7,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "400"
+    },
+    {
+      "id": 8,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "800"
+    },
+    {
+      "id": 9,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "888"
+    },
+    {
+      "id": 10,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "555"
+    },
+    {
+      "id": 11,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "400"
+    },
+    {
+      "id": 12,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "666"
+    },
+    {
+      "id": 13,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "820"
+    },
+    {
+      "id": 14,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "555"
+    },
+    {
+      "id": 15,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "810"
+    },
+    {
+      "id": 16,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "750"
+    },
+    {
+      "id": 17,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "990"
+    },
+    {
+      "id": 18,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "298"
+    },
+    {
+      "id": 19,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "350"
+    },
+    {
+      "id": 20,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "999"
+    }
+  ],
+  "Cart": [
+    {
+      "id": 1,
+      "image": "./Image/Products/Astaberry.png",
+      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
+      "price": "400"
+    },
+    {
+      "id": 2,
+      "image": "./Image/Products/Aphrodite.png",
+      "name": "Aphrodite Beauty Exilier",
+      "price": "550"
+    }
+  ]
+}
