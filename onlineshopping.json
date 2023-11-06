@@ -23,7 +23,23 @@
       "mobile": "9563147023",
       "password": "surya123",
       "conformpassword": "surya123"
-    }
+    },
+	{
+    "id": 4,
+    "name": "vijai",
+    "email": "vijai@gmail.com",
+    "mobile": "12344556677",
+    "password": "vijai123",
+    "conformpassword": "vijai"
+  },
+  {
+    "id": 5,
+    "name": "ravi",
+    "email": "ravi@gmail.com",
+    "mobile": "989516556265",
+    "password": "ravi123",
+    "conformpassword": "ravi123"
+  }
   ],
   "Products": [
     {
