@@ -184,19 +184,6 @@
     }
   ],
   "Cart": [
-    {
-      "id": 1,
-      "image": "./Image/Products/Astaberry.png",
-      "name": "Vitamin C 5% Face Moisturizer For All Skin Type - 100 ML",
-      "price": "400",
-      "quantity": "5"
-    },
-    {
-      "id": 2,
-      "image": "./Image/Products/Aphrodite.png",
-      "name": "Aphrodite Beauty Exilier",
-      "price": "550",
-      "quantity": "5"
-    }
+    
   ]
 }
